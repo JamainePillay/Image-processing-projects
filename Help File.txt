@@ -1,0 +1,15 @@
+1.Click on the link below which will open up google colab:
+https://colab.research.google.com/drive/1TuF_OPSnu26VgiSTSbjCvurR8rp-Rzsd?usp=sharing
+
+2. Once the project file is open, you will have to upload the dataset called "Dataset my own" on google colab (we have included the help file in the submission folder). 
+
+3. You can click on the execute button which is located on the side of each code block to execute a specific code block. 
+
+4. Code Blocks must be executed in order from top to bottom.
+
+5. To test your own images, you will have to upload the image to the file section in google colab and then copy and paste the file path in the relevant code block that was used for testing.
+
+Here is the link for the project on GitHub:
+https://github.com/JamainePillay/Image-processing-projects/blob/main/COMP702_Projet.ipynb
+
+If you have opened the project using GitHub, GitHub will contain a link which will allow you to open the project on Google colab and run the file from Google colab.
